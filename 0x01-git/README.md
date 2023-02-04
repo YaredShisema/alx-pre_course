@@ -1,1 +1,1 @@
-I like git and doing projects here.
+I like doing projects in git.
